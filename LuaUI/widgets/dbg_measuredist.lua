@@ -7,7 +7,7 @@ function widget:GetInfo()
 		desc      = "Measure distance on surface",
 		author    = "Jools",
 		date      = "Nov, 2013",
-		license   = "All rights reserved",
+		license   = "Penguin",
 		layer     = -5,
 		enabled   = false
 	}
